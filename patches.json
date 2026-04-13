@@ -3,10 +3,8 @@
     "url": "https://raw.githubusercontent.com/xdxnhp/poe1-patch-files/main/zoom_3.28.zip",
     "version": "1.0"
   },
-  {
   "noparticles": {
     "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/v1.0/df_particles_3.28.zip",
     "version": "1.0"
   }
-
 }
