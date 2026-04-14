@@ -8,11 +8,11 @@
     "version": "1.0"
   },
   "nocorpse": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nocorpse_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nocorpse.zip",
     "version": "1.0"
   },
   "lifebar": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/lifebar_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/lifebar.zip",
     "version": "1.0"
   },
   "noshadow": {
