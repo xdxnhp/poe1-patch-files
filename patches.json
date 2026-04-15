@@ -1,38 +1,38 @@
 {
   "zoom": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/zoom_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/zoom.zip",
     "version": "1.0"
   },
   "minimap": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/minimap_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/minimap.zip",
     "version": "1.0"
   },
-  "monster": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/monster.zip",
+  "nocorpse_lifebar": {
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nocorpse_lifebar.zip",
     "version": "1.0"
   },
   "noshadow": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/noshadow_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/noshadow.zip",
     "version": "1.0"
   },
   "nofog": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nofog_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nofog.zip",
     "version": "1.0"
   },
   "nobloom": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nobloom_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/nobloom.zip",
     "version": "1.0"
   },
   "noparticles": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/noparticles_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/noparticles.zip",
     "version": "1.0"
   },
   "colormods": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/colormods_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/colormods.zip",
     "version": "1.0"
   },
   "defaul": {
-    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/defaul_3.28.zip",
+    "url": "https://github.com/xdxnhp/poe1-patch-files/releases/download/3.28/defaul.zip",
     "version": "1.0"
   }
 }
